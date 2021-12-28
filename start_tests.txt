@@ -1,0 +1,5 @@
+$ luatest test/simple_unit_test.lua
+...
+Ran 3 tests in 0.041 seconds, 3 successes, 0 failures
+
+luatest test/simple_unit_test.lua simple_unit_test_1
